@@ -28,6 +28,11 @@ Here's how to perform a simple addition operation using the calculator:
 4. Click the "=" button to calculate the result.
 5. The result, in this case, 5 + 3 = 8, will be displayed in the calculator's display area.
 
+## Screenshot
+
+### User Interface
+![User Interface](/ss.PNG)
+
 ## Customization
 You can customize the calculator's appearance and functionality by modifying the `style.css` and `script.js` files. You can change colors, layout, and add additional features as needed.
 
